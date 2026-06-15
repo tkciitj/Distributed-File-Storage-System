@@ -31,7 +31,6 @@
 16. [Getting Started](#getting-started)
 17. [Environment Configuration](#environment-configuration)
 18. [Future Roadmap](#future-roadmap)
-19. [Resume Impact](#resume-impact)
 
 ---
 
